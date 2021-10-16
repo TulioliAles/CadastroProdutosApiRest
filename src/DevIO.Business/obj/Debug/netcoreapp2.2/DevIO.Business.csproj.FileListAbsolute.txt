@@ -1,0 +1,10 @@
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

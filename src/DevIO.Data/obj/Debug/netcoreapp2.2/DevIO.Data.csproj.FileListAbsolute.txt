@@ -1,0 +1,13 @@
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
