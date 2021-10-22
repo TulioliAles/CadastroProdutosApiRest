@@ -6,9 +6,12 @@ D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netc
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.runtimeconfig.dev.json
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.pdb
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
@@ -33,7 +36,7 @@ D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netc
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.Api.StaticWebAssets.xml
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevIO.Api.styles.css
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.RazorTargetAssemblyInfo.cache
-D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CopyComplete
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.dll
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.pdb
 D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.genruntimeconfig.cache
+D:\ADM\Projetos_Dotnet_Core\CadastroProdutosApiRest\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CopyComplete
